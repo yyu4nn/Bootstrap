@@ -1,0 +1,68 @@
+* {
+    box-sizing: border-box;
+}
+
+body{
+    background-color: white;
+    text-align: center;
+}
+
+.fondoverdeclaro{
+    background-color: greenyellow;
+}
+
+.fondoverde{
+    background-color: #B0F2B4;
+}
+
+.altura1{
+    height: 2rem;
+}
+
+.altura2{
+    height: 20rem;
+}
+
+.altura3{
+    height: 20rem;
+}
+
+.altura4{
+    height: 20rem;
+}
+
+.altura5{
+    height: 20rem;
+}
+
+.altura6{
+    height: 10rem;
+}
+
+.altura7{
+    height: 10rem;
+}
+
+.fondoamarillo{
+    background-color: #F2E2BA;
+}
+
+.fondoazul{
+    background-color: #F2BAC9;
+}
+
+.fondorojo{
+    background-color: #BAD7F2;
+}
+
+.fondonaranja{
+    background-color: #BAF2E9;
+}
+
+.fondomorado{
+    background-color: #B07C9E;
+}
+
+.fondogris{
+    background-color: #B59194;
+}
